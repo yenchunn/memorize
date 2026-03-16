@@ -1,1 +1,1 @@
-#ˋ這是一個Memorize
+#這是一個Memorize
